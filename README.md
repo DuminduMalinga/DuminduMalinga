@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumindumalinga&label=Profile%20views&color=0e75b6&style=flat" alt="dumindumalinga" /> </p>
 
+---
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **flutter**
