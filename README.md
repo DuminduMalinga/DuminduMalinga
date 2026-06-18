@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Malinga+Bandara;Software+Engineering+Undergraduate;Android+%7C+Mobile+%7C+Web+Developer)](https://git.io/typing-svg)
 
 <br/>
-<br>
-br
+<br/>
+<br/>
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-dumindumalinga.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://dumindumalinga.me/)
 [![Gmail](https://img.shields.io/badge/Gmail-malingabandara24256-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malingabandara24256@gmail.com)
