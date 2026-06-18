@@ -94,7 +94,7 @@ I'm a passionate **Software Engineering undergraduate** with hands-on experience
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dumindumalinga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumindumalinga&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumindumalinga&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" 
 
 <br/><br/>
 
@@ -104,7 +104,6 @@ I'm a passionate **Software Engineering undergraduate** with hands-on experience
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dumindumalinga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/dumindumalinga)
 
 </div>
-
 
 
 ---
