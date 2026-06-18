@@ -98,24 +98,14 @@ I'm a passionate **Software Engineering undergraduate** with hands-on experience
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindumalinga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
 
-<br/><br/>
 
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dumindumalinga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/dumindumalinga)
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dumindumalinga&theme=algolia&no-frame=true&no-bg=true&column=7)](https://github.com/dumindumalinga)
-
-</div>
 
 ---
 
