@@ -85,15 +85,22 @@ I'm a passionate **Software Engineering undergraduate** with hands-on experience
 
 ## 🚀 Featured Projects
 
+Selected mobile, web, and computer vision projects. Explore each repository for screenshots, setup instructions, and implementation details.
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏦 [**WealthWise**](https://github.com/DuminduMalinga/WealthWise) | Personal finance management mobile app | `Flutter` `Dart` `Firebase` |
-| 🎬 [**Video Player**](https://github.com/DuminduMalinga/Video_Player) | Feature-rich video player application | `Flutter` `Dart` |
-| 🏠 [**Interior Design Web**](https://github.com/DuminduMalinga/Interiordesignweb) | Modern interior design web application | `React` `TypeScript` |
-| 🚗 [**Vehicle Classification**](https://github.com/DuminduMalinga/Vehicle_Classification) | ML-based vehicle classification system | `Python` `Jupyter` `ML` |
-| 🌱 [**Plant Growth**](https://github.com/DuminduMalinga/Plant_Growth) | Plant growth analysis & prediction | `Python` `Jupyter` `Data Science` |
-| 🛒 [**E-Commerce Web**](https://github.com/DuminduMalinga/E-commerce_web) | Full-featured e-commerce website | `HTML` `CSS` `JavaScript` |
-| 📝 [**Personal Reflection**](https://github.com/DuminduMalinga/Personal_Refelection) | Personal reflection journal application | `Java` `Android` |
+| 🛍️ [**Velora**](https://github.com/DuminduMalinga/Velora) | Shopping app with a live catalog, wishlist, cart, and PayHere Sandbox checkout | `Flutter` `Dart` `REST API` `PayHere` |
+| 💰 [**Finora**](https://github.com/DuminduMalinga/Finora) | Offline expense tracker with category budgets, monthly reports, and budget alerts | `Flutter` `Dart` `SQLite` |
+| 🏠 [**InteriorAI**](https://github.com/DuminduMalinga/Interior-Design-Web) | Floor-plan detection, scored furniture layouts, and interactive 3D room previews | `React` `TypeScript` `FastAPI` `Supabase` `Three.js` |
+| 🛋️ [**LiviSpace**](https://github.com/DuminduMalinga/Interior_Design_App) | Interior design app with floor-plan analysis, layout recommendations, and room exports | `Flutter` `Dart` `Supabase` |
+| 🌤️ [**SkyCast**](https://github.com/DuminduMalinga/Sky_Cast) | Live weather, hourly and 5-day forecasts, city search, and saved locations | `Flutter` `Dart` `WeatherAPI` `Geolocator` |
+| ✅ [**The Donezo**](https://github.com/DuminduMalinga/TaskFlow) | Offline task manager with categories, due dates, and local storage | `Flutter` `Dart` `Provider` `SQLite` |
+| 📱 [**QuickQR**](https://github.com/DuminduMalinga/QuickQR) | Generate, save, and share QR codes with persistent history | `Flutter` `Dart` `qr_flutter` `share_plus` |
+| 🏦 [**WealthWise**](https://github.com/DuminduMalinga/WealthWise) | Personal finance app for income, expenses, budgets, savings goals, and investments | `Flutter` `Dart` `Firebase Auth` `Firestore` |
+| 🌱 [**Plant Growth**](https://github.com/DuminduMalinga/Plant_Growth) | Computer vision notebooks measuring plant height, leaf count, and leaf color over time | `Python` `OpenCV` `Jupyter` `pandas` |
+
+[Explore all repositories](https://github.com/DuminduMalinga?tab=repositories)
+
 
 ---
 
